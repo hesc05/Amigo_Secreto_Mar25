@@ -99,7 +99,7 @@ El objetivo de esta aplicación es permitir que los usuarios agreguen X cantidad
 Pantalla de Inicio
 <img width="1552" alt="1 Pantalla de Inicio_HESC" src="https://github.com/user-attachments/assets/4f8432c1-1bfc-4834-a41d-f9c530f67dff" />
 Primera Parte del sorteo
-<img width="1552" alt="2 Añadir nombres_HESC" src="https://github.com/user-attachments/assets/3c5bd897-6e0c-43ad-a65c-1d1634e7040a" />
+<img width="1552" alt="2 Añadir nombres_HESC" src="https://github.com/user-attachments/assets/3c5bd897-6e0c-43ad-a65c-1d1634e7040a" />
 Segunda Parte del sorteo
 <img width="1552" alt="3 Selección Aleatoria de nombres_HESC" src="https://github.com/user-attachments/assets/601c9fb8-854c-418f-af13-c77d2b5201f7" />
 Pantalla Final y mensaje
@@ -109,4 +109,3 @@ Pantalla Final y mensaje
 
 Este archivo `README.md` está diseñado para ser claro y accesible, describiendo de manera detallada y amigable el funcionamiento de la aplicación y su código. ¡Espero que te
 resulte útil!
-
